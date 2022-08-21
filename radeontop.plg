@@ -3,7 +3,7 @@
   <!ENTITY name      "radeontop">
   <!ENTITY author    "ich777">
   <!ENTITY version   "2022.06.28">
-  <!ENTITY gitURL    "https://github.com/&author;/unraid-&name;/raw/master">
+  <!ENTITY gitURL    "https://raw.githubusercontent.com/&author;/unraid-&name;/master">
   <!ENTITY pluginURL "&gitURL;/&name;.plg">
   <!ENTITY md5       "854d8ea6812785d65f4950dc0e5f769b">
   <!ENTITY plugin    "/boot/config/plugins/&name;">
